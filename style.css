@@ -107,7 +107,7 @@ h1, h3 {
 
 #tira_de_cursos, .juegos_por_curso{
     min-height:76vh;
-    background-image: url("/img/fondobody.jpg");
+    background-image: url("img\fondobody.jpg");
     object-fit: cover;
 }
 #detalle_curso{
