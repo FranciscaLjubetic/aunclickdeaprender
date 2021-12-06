@@ -240,7 +240,7 @@ h1, h3 {
 
 .fondo_nosotros_card{
     border-radius: 5%;
-    background-image: url('img/fondobody.jpg') !important;
+    background-image: url("img/fondobody.jpg") !important;
     max-width: 300px;
     position: relative;
     margin:0px auto;
